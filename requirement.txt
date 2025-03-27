@@ -1,3 +1,5 @@
 moviepy
 speech_recognition
 textblob
+streamlit
+
